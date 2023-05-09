@@ -1,0 +1,5 @@
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Solid\ISP\Violation\obj\Debug\net7.0\ISP.Violation.csproj.AssemblyReference.cache
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Solid\ISP\Violation\obj\Debug\net7.0\ISP.Violation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Solid\ISP\Violation\obj\Debug\net7.0\ISP.Violation.AssemblyInfoInputs.cache
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Solid\ISP\Violation\obj\Debug\net7.0\ISP.Violation.AssemblyInfo.cs
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Solid\ISP\Violation\obj\Debug\net7.0\ISP.Violation.csproj.CoreCompileInputs.cache

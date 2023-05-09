@@ -1,0 +1,15 @@
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Solid\OCP\Implementation\bin\Debug\net7.0\OCP.Implementation.exe
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Solid\OCP\Implementation\bin\Debug\net7.0\OCP.Implementation.deps.json
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Solid\OCP\Implementation\bin\Debug\net7.0\OCP.Implementation.runtimeconfig.json
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Solid\OCP\Implementation\bin\Debug\net7.0\OCP.Implementation.dll
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Solid\OCP\Implementation\bin\Debug\net7.0\OCP.Implementation.pdb
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Solid\OCP\Implementation\obj\Debug\net7.0\OCP.Implementation.csproj.AssemblyReference.cache
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Solid\OCP\Implementation\obj\Debug\net7.0\OCP.Implementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Solid\OCP\Implementation\obj\Debug\net7.0\OCP.Implementation.AssemblyInfoInputs.cache
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Solid\OCP\Implementation\obj\Debug\net7.0\OCP.Implementation.AssemblyInfo.cs
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Solid\OCP\Implementation\obj\Debug\net7.0\OCP.Implementation.csproj.CoreCompileInputs.cache
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Solid\OCP\Implementation\obj\Debug\net7.0\OCP.Implementation.dll
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Solid\OCP\Implementation\obj\Debug\net7.0\refint\OCP.Implementation.dll
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Solid\OCP\Implementation\obj\Debug\net7.0\OCP.Implementation.pdb
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Solid\OCP\Implementation\obj\Debug\net7.0\OCP.Implementation.genruntimeconfig.cache
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Solid\OCP\Implementation\obj\Debug\net7.0\ref\OCP.Implementation.dll

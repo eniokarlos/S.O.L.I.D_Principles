@@ -1,0 +1,15 @@
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Solid\LSP\Violation\bin\Debug\net7.0\LSP.Violation.exe
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Solid\LSP\Violation\bin\Debug\net7.0\LSP.Violation.deps.json
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Solid\LSP\Violation\bin\Debug\net7.0\LSP.Violation.runtimeconfig.json
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Solid\LSP\Violation\bin\Debug\net7.0\LSP.Violation.dll
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Solid\LSP\Violation\bin\Debug\net7.0\LSP.Violation.pdb
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Solid\LSP\Violation\obj\Debug\net7.0\LSP.Violation.csproj.AssemblyReference.cache
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Solid\LSP\Violation\obj\Debug\net7.0\LSP.Violation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Solid\LSP\Violation\obj\Debug\net7.0\LSP.Violation.AssemblyInfoInputs.cache
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Solid\LSP\Violation\obj\Debug\net7.0\LSP.Violation.AssemblyInfo.cs
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Solid\LSP\Violation\obj\Debug\net7.0\LSP.Violation.csproj.CoreCompileInputs.cache
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Solid\LSP\Violation\obj\Debug\net7.0\LSP.Violation.dll
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Solid\LSP\Violation\obj\Debug\net7.0\refint\LSP.Violation.dll
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Solid\LSP\Violation\obj\Debug\net7.0\LSP.Violation.pdb
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Solid\LSP\Violation\obj\Debug\net7.0\LSP.Violation.genruntimeconfig.cache
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Solid\LSP\Violation\obj\Debug\net7.0\ref\LSP.Violation.dll

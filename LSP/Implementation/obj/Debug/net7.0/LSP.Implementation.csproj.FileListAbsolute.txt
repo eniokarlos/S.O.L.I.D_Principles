@@ -1,0 +1,15 @@
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Solid\LSP\Implementation\obj\Debug\net7.0\LSP.Implementation.csproj.AssemblyReference.cache
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Solid\LSP\Implementation\obj\Debug\net7.0\LSP.Implementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Solid\LSP\Implementation\obj\Debug\net7.0\LSP.Implementation.AssemblyInfoInputs.cache
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Solid\LSP\Implementation\obj\Debug\net7.0\LSP.Implementation.AssemblyInfo.cs
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Solid\LSP\Implementation\obj\Debug\net7.0\LSP.Implementation.csproj.CoreCompileInputs.cache
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Solid\LSP\Implementation\bin\Debug\net7.0\LSP.Implementation.exe
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Solid\LSP\Implementation\bin\Debug\net7.0\LSP.Implementation.deps.json
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Solid\LSP\Implementation\bin\Debug\net7.0\LSP.Implementation.runtimeconfig.json
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Solid\LSP\Implementation\bin\Debug\net7.0\LSP.Implementation.dll
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Solid\LSP\Implementation\bin\Debug\net7.0\LSP.Implementation.pdb
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Solid\LSP\Implementation\obj\Debug\net7.0\LSP.Implementation.dll
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Solid\LSP\Implementation\obj\Debug\net7.0\refint\LSP.Implementation.dll
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Solid\LSP\Implementation\obj\Debug\net7.0\LSP.Implementation.pdb
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Solid\LSP\Implementation\obj\Debug\net7.0\LSP.Implementation.genruntimeconfig.cache
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Solid\LSP\Implementation\obj\Debug\net7.0\ref\LSP.Implementation.dll
